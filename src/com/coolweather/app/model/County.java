@@ -34,7 +34,7 @@ public class County {
 	    	return cityId;
 	    }
 	    
-	    public void setCityId(int provinceId){
+	    public void setCityId(int cityId){  //ÉèÖÃÓï¾ä³ö´í
 	    	this.cityId=cityId;
 	    }
 }
